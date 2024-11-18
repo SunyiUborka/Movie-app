@@ -11,7 +11,7 @@ export default defineConfig({
   server:{
     proxy:{
       '/api':{
-        target: 'http://192.168.1.11:3000'
+        target: 'http://backend:3000'
       }
     }
   },
