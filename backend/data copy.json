@@ -1,0 +1,572 @@
+{
+    "screenings": {
+        "1": [
+            {
+                "id": 1,
+                "hu": "Különben dühbe jövünk",
+                "en": "Watch Out, We're Mad!",
+                "startEpochSeconds": 1726840800,
+                "lengthMins": 97,
+                "reserved": [
+                    "1LEFT10",
+                    "1LEFT11",
+                    "2RIGHT5"
+                ]
+            },
+            {
+                "id": 2,
+                "hu": "A tanú",
+                "en": "The Witness",
+                "startEpochSeconds": 1726849800,
+                "lengthMins": 105,
+                "reserved": [
+                    "3LEFT1",
+                    "3LEFT2",
+                    "4RIGHT8"
+                ]
+            },
+            {
+                "id": 3,
+                "hu": "Liza, a rókatündér",
+                "en": "Liza the Fox-Fairy",
+                "startEpochSeconds": 1726858800,
+                "lengthMins": 98,
+                "reserved": [
+                    "1LEFT5",
+                    "1RIGHT7",
+                    "2LEFT6"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 1,
+                "hu": "Fehér isten",
+                "en": "White God",
+                "startEpochSeconds": 1726845600,
+                "lengthMins": 121,
+                "reserved": [
+                    "1LEFT3",
+                    "2RIGHT4",
+                    "2RIGHT5",
+                    "3LEFT7"
+                ]
+            },
+            {
+                "id": 2,
+                "hu": "Van valami furcsa és megmagyarázhatatlan",
+                "startEpochSeconds": 1726852800,
+                "lengthMins": 90,
+                "reserved": [
+                    "1LEFT2",
+                    "1RIGHT3",
+                    "2LEFT8"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 1,
+                "hu": "Csillagok háborúja",
+                "en": "Star Wars",
+                "startEpochSeconds": 1726849200,
+                "lengthMins": 121,
+                "reserved": [
+                    "5LEFT6",
+                    "5RIGHT7",
+                    "6LEFT8",
+                    "7RIGHT9"
+                ]
+            },
+            {
+                "id": 2,
+                "hu": "A keresztapa",
+                "en": "The Godfather",
+                "startEpochSeconds": 1726860000,
+                "lengthMins": 175,
+                "reserved": [
+                    "4LEFT4",
+                    "4LEFT5",
+                    "4RIGHT2",
+                    "5RIGHT1"
+                ]
+            },
+            {
+                "id": 3,
+                "hu": "Macskafogó",
+                "en": "Cat City",
+                "startEpochSeconds": 1726867200,
+                "lengthMins": 96,
+                "reserved": [
+                    "2LEFT1",
+                    "3RIGHT3"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 1,
+                "hu": "Valami Amerika",
+                "en": "A Kind of America",
+                "startEpochSeconds": 1726844400,
+                "lengthMins": 115,
+                "reserved": [
+                    "1LEFT1",
+                    "1RIGHT1",
+                    "2LEFT2"
+                ]
+            },
+            {
+                "id": 2,
+                "hu": "Az én XX. századom",
+                "en": "My 20th Century",
+                "startEpochSeconds": 1726853400,
+                "lengthMins": 104,
+                "reserved": [
+                    "3LEFT5",
+                    "3RIGHT6",
+                    "4RIGHT7"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 1,
+                "hu": "Moszkva tér",
+                "en": "Moscow Square",
+                "startEpochSeconds": 1726855200,
+                "lengthMins": 89,
+                "reserved": [
+                    "1LEFT7",
+                    "1LEFT8",
+                    "2RIGHT4"
+                ]
+            },
+            {
+                "id": 2,
+                "hu": "Szerelem első vérig",
+                "en": "Love Till First Blood",
+                "startEpochSeconds": 1726862400,
+                "lengthMins": 95,
+                "reserved": [
+                    "2LEFT3",
+                    "2LEFT4",
+                    "3RIGHT2"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 1,
+                "hu": "Nekem lámpást adott kezembe az Úr Pesten",
+                "startEpochSeconds": 1726848000,
+                "lengthMins": 110,
+                "reserved": [
+                    "2LEFT1",
+                    "2LEFT2",
+                    "3RIGHT3"
+                ]
+            },
+            {
+                "id": 2,
+                "hu": "Kontroll",
+                "en": "Control",
+                "startEpochSeconds": 1726857000,
+                "lengthMins": 106,
+                "reserved": [
+                    "1LEFT10",
+                    "1RIGHT5",
+                    "2RIGHT6"
+                ]
+            }
+        ]
+    },
+    "venues": [
+        {
+            "id": 1,
+            "hu": "Corvin Mozi",
+            "en": "Corvin Cinema",
+            "lon": "19.07117831951774",
+            "lat": "47.486200263587946"
+        },
+        {
+            "id": 2,
+            "hu": "Alle Mozi",
+            "en": "Alle Cinema",
+            "lon": "19.04906992444121",
+            "lat": "47.47523730220025"
+        },
+        {
+            "id": 3,
+            "hu": "Arena Mozi",
+            "en": "Arena Cinema",
+            "lon": "19.092354927865664",
+            "lat": "47.498424185014315"
+        },
+        {
+            "id": 4,
+            "hu": "Duna pláza Mozi",
+            "en": "Duna plasa Cinema",
+            "lon": "19.072680621242096",
+            "lat": "47.550120738437634"
+        },
+        {
+            "id": 5,
+            "hu": "Mammut Mozi",
+            "en": "Mammut Cinema",
+            "lon": "19.026130236717492",
+            "lat": "47.508470353366086"
+        },
+        {
+            "id": 6,
+            "hu": "Westend Mozi",
+            "en": "Westend Cinema",
+            "lon": "19.059247368619303",
+            "lat": "47.51391878859364"
+        }
+    ],
+    "cinemas": {
+        "1": [
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": true
+            }
+        ],
+        "2": [
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 3,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 3,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": false
+            }
+        ],
+        "3": [
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 3,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": true
+            }
+        ],
+        "4": [
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 3,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": true
+            }
+        ],
+        "5": [
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 3,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": false
+            }
+        ],
+        "6": [
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "LEFT",
+                "seatNo": 3,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 1,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 1,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 2,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "LEFT",
+                "seatNo": 3,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 1,
+                "available": true
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 2,
+                "available": false
+            },
+            {
+                "row": 2,
+                "side": "RIGHT",
+                "seatNo": 3,
+                "available": true
+            }
+        ]
+    }
+}
